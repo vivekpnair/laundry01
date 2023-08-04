@@ -12,6 +12,10 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
 
+/*
+This is a Backend simulator class. This should be replaced by proper REST endpoints which will be a webservice that
+does the laundry data persistance etc to a db
+*/
 public class RESTApiSimulator {
 
     private static RESTApiSimulator uniqueInstance;
